@@ -114,7 +114,7 @@ MIT
 
 ## Disclaimer
 
-This is a joke project. Please don't actually use this in production. Then again, we can't stop you.
+This is a joke project. Please don't actually use this in production. Then again, I can't stop you.
 
 ---
 
