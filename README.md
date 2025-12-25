@@ -15,7 +15,7 @@ Because it's trendy to use SaaS in your scalable microservices architecture or s
 ## Features
 
 - **Blazingly Fast**: Returns slop at the speed of light (or network latency, whichever is slower)
-- **Secure**: No authentication required because who would want to steal these jokes anyway
+- **Secure**: The slop is for all. No authentication required. Can't have a data breach if there is no data.
 - **Scalable**: Can handle dozens of requests per second\*
 
 \*not tested
@@ -25,7 +25,7 @@ Because it's trendy to use SaaS in your scalable microservices architecture or s
 ```bash
 # Clone this repository
 git clone https://github.com/AbdelRahmanRahal/Slop-as-a-Service.git
-cd slop-as-a-service
+cd Slop-as-a-Service
 
 # Install dependencies
 npm install
@@ -114,8 +114,8 @@ MIT
 
 ## Disclaimer
 
-This is a joke project. Please don't actually use this in production. Then again, I can't stop you.
+This is a joke project. Please don't actually use this in production. Then again, I can't stop you, and it would be kinda funny to be fair.
 
 ---
 
-Made with 1.6 hours of sleep and questionable decisions
+Made with love, 1.6 hours of sleep, and questionable decisions.
