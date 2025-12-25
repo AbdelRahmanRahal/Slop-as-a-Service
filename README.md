@@ -24,7 +24,7 @@ Because every modern application needs a joke API with questionable humor and ev
 
 ```bash
 # Clone this repository
-git clone https://github.com/AbdelRahmanRahal/slop-as-a-service.git
+git clone https://github.com/AbdelRahmanRahal/Slop-as-a-Service.git
 cd slop-as-a-service
 
 # Install dependencies
