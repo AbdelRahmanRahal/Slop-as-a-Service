@@ -4,7 +4,7 @@
 
 ## What is this?
 
-Slop-as-a-Service is a revolutionary API that provides on-demand access to premium, enterprise-grade programming jokes. Built on a robust, cloud-native architecture, SaaS delivers consistent mediocrity with 99.9% uptime\*.
+Slop-as-a-Service is a revolutionary API that provides on-demand access to premium, enterprise-grade slop responses. Built on a robust, cloud-native architecture, SaaS delivers consistent mediocrity with 99.9% uptime\*.
 
 \*uptime not guaranteed
 
