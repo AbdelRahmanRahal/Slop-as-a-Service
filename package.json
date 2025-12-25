@@ -1,0 +1,11 @@
+{
+  "name": "slop-as-a-service",
+  "version": "1.0.0",
+  "description": "Slop-as-a-Service (or SaaS) is an API that serves slop upon request.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "author": "A. Rahal",
+  "license": "MIT"
+}
