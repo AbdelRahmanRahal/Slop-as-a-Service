@@ -10,7 +10,7 @@ Slop-as-a-Service is a revolutionary API that provides on-demand access to premi
 
 ## Why?
 
-Because every modern application needs a joke API with questionable humor and even more questionable architectural decisions.
+Because it's trendy to use SaaS in your scalable microservices architecture or something like that idk I don't remember.
 
 ## Features
 
